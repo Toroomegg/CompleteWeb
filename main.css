@@ -1,0 +1,16 @@
+/*下方(.header)就是在html中div的class繼承使用，class名稱可自訂*/
+
+.header {
+    background-color: antiquewhite;
+    font-size: 100px;
+}
+
+h1 {
+    color: firebrick;
+    font-size: 50px;
+}
+
+p {
+    color: cadetblue;
+    font-size: 20px;
+}
